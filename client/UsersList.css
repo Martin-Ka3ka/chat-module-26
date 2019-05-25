@@ -1,0 +1,14 @@
+.Users {
+    display: flex;
+    width: 25vw;
+    justify-content: flex-start;
+    flex-direction: column;
+    border-right: 1px solid blue;
+}
+
+.UsersOnline {
+    padding: 20px;
+    text-align: center;
+    background: aquamarine;
+    border-bottom: 1px solid;
+}
