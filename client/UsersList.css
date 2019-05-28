@@ -12,3 +12,11 @@
     background: aquamarine;
     border-bottom: 1px solid;
 }
+
+.UsersList {
+    background: aquamarine;
+    border-radius: 30px;
+    align-self: flex-start;
+    padding: 10px 20px;
+    margin-left: 10px;
+}

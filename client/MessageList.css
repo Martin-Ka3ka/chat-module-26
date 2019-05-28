@@ -1,14 +1,15 @@
-.MessageList {
-    display: flex;
-    flex: 1;
-    flex-direction: column-reverse;
-    justify-content: flex-end;
-    padding: 20px;
-}
+    .MessageList {
+        display: flex;
+        flex: 1;
+        flex-direction: column-reverse;
+        justify-content: flex-end;
+        padding: 20px;
+    }
 
-.Message {
-    padding: 5px;
-    background-color: aquamarine;
-    margin: 5px;
-    border-radius: 30px;
-}
+    .Message {
+        padding: 5px 20px;
+        background-color: aquamarine;
+        margin: 5px;
+        border-radius: 30px;
+        align-self: flex-start;
+    }
